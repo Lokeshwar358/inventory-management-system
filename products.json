@@ -1,0 +1,9 @@
+[
+    {
+        "id": 101,
+        "name": "Keyboard",
+        "category": "Electronics",
+        "price": 1500,
+        "quantity": 10
+    }
+]
